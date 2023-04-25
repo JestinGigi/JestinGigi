@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JestinGigi
-- 👀 I’m interested in ReD TeAMiNg.
-- 🌱 I’m currently trying to improve my hacking skills.
+- 👀 I’m interested in security and web development.
+- 🌱 I’m currently trying to improve my coding skills.
 - 💞️ 
 - 📫 How to reach me ...
 
