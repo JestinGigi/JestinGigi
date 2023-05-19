@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @JestinGigi
-- 👀 I’m interested in security and web development.
-- 🌱 I’m currently trying to improve my coding skills.
-- 💞️ 
-- 📫 How to reach me ...
+# Hi, I'm [Jestin Gigi]! 👋
 
-<!---
-JestinGigi/JestinGigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here's a brief introduction about me and my work:
+
+## About Me
+I am a passionate developer with experience in web development, data science, and cybersecurity. I'm keen to learn and expand my knowledge in the field of computer science.
+
+## Skills
+- **Languages:** HTML, CSS, Bootstrap, JavaScript, Bash, Python
+- **Database:** MongoDB, MySQL
+- **Frameworks:** Flask, 
+- **Operating Systems:** Linux (2+ years of experience), Windows
+- **Tools:** NLP, Git, Jupyter Notebook, Vs Code, Burpesuite, Photoshop, Canva
+- **General Skills:** Google Dorking, Github Dorking, Social Engineering using automate tools, Intermediate typer(65 wpm)
+
+## Projects
+- **Data Science:** I have successfully completed a project on predicting hemophilia using data science techniques. It involved analyzing large datasets, applying machine learning algorithms, and generating meaningful insights to aid in the diagnosis and treatment of hemophilia.
+- **Chatbot Development:** I developed a chatbot using NLP techniques and Flask framework. It provides an interactive interface for users to ask questions and receive responses based on natural language processing algorithms.
+- **Linux File Systems:** With 3+ years of experience working with Linux, I have a deep understanding of Linux file systems, command-line operations, and system administration tasks.
+- **VAPT Project:** During my internship at Hack X Security, I actively participated in a Vulnerability Assessment and Penetration Testing (VAPT) project. I gained hands-on experience in identifying and resolving security vulnerabilities in web applications, networks, and systems.
+- **Bug Bounty Reports:** I have written approximately 52 reports on private bug bounty programs, where I discovered and responsibly disclosed security vulnerabilities to organizations, helping them improve their security posture.
+
+## Interests
+I am keen on expanding my knowledge and skills by working with frameworks like React and Node.js. I find the JavaScript ecosystem fascinating and would love to explore the possibilities these frameworks offer for building scalable and interactive web applications.
+
+## Contact Me
+If you'd like to connect or collaborate on projects, feel free to reach out to me via the following channels:
+
+- GitHub: [Your GitHub Username](https://github.com/YourGitHubUsername)
+- Email: [Your Email Address](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+
+I'm excited about the journey ahead and look forward to making meaningful contributions to the world of technology!
