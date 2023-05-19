@@ -28,6 +28,6 @@ If you'd like to connect or collaborate on projects, feel free to reach out to m
 
 - GitHub: [JestinGigi](https://github.com/JestinGigi)
 - Email: [jestingigi@gmail.com](mailto:jestingigi@gmail.com)
-- LinkedIn: [JestinGigi](https://www.linkedin.com/in/jestin-g-1ab0a31ba/))
+- LinkedIn: [JestinGigi](https://www.linkedin.com/in/jestin-g-1ab0a31ba/)
 
 I'm excited about the journey ahead and look forward to making meaningful contributions to the world of technology!
