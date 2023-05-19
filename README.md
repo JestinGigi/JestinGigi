@@ -1,4 +1,4 @@
-# Hi, I'm [Jestin Gigi]! 👋
+# Hi, I'm Jestin Gigi! 👋
 
 Welcome to my GitHub profile! Here's a brief introduction about me and my work:
 
