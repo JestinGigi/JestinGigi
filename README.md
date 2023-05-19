@@ -1,9 +1,7 @@
-# Hi, I'm Jestin Gigi! 👋
+<p><img src="https://github.com/JestinGigi/JestinGigi/blob/main/about_me.gif", alt="My Intro"></p>
 
-Welcome to my GitHub profile! Here's a brief introduction about me and my work:
-
-## About Me
-I am a passionate developer with experience in web development, data science, and cybersecurity. I'm keen to learn and expand my knowledge in the field of computer science.
+## <img src="https://github.com/JestinGigi/JestinGigi/blob/main/My_bitemoji.png" alt="My_bitemoji">About Me
+I am a passionate developer with experience in web development, data science, and cybersecurity 🕸️👾. I'm keen to learn and expand my knowledge in the field of computer science.
 
 ## Skills
 - **Languages:** HTML, CSS, Bootstrap, JavaScript, Bash, Python
@@ -31,5 +29,8 @@ If you'd like to connect or collaborate on projects, feel free to reach out to m
 - GitHub: [JestinGigi](https://github.com/JestinGigi)
 - Email: [jestingigi@gmail.com](mailto:jestingigi@gmail.com)
 - LinkedIn: [JestinGigi](https://www.linkedin.com/in/jestin-g-1ab0a31ba/)
+
+📈 My github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JestinGigi&show_icons=true&theme=gotham" alt="JestinGigi"/>
 
 I'm excited about the journey ahead and look forward to making meaningful contributions to the world of technology!
