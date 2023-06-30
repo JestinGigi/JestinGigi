@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/JestinGigi/JestinGigi/blob/main/about_me.gif", alt="My Intro"></p>
 
-## <p><img src="https://github.com/JestinGigi/JestinGigi/blob/main/My_bitemoji.png" alt="My_bitemoji" height="60" width="60">  About Me</p>
+## <p>About Me</p>
 I am a passionate developer with experience in web development, data science, and cybersecurity 🕸️👾. I'm keen to learn and expand my knowledge in the field of computer science.
 
 ## ⚙️Skills
