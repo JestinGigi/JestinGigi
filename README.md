@@ -36,7 +36,8 @@ If you'd like to connect or collaborate on projects, feel free to reach out to m
   <a href='https://twitter.com/MrRobotWhh'><img src='https://img.icons8.com/color/96/000000/twitter-squared.png' height="60" width="60"></a>
 </p>
 
-## :📈My Github Stats
+<!--## :📈My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JestinGigi&show_icons=true&theme=gotham" alt="JestinGigi"/>
 
 I'm excited about the journey ahead and look forward to making meaningful contributions to the world of technology!
+-->
