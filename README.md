@@ -14,14 +14,14 @@ I'm passionate about Devops and its ability to streamline the process of buildin
 ## 📈Internship (Why Should you hire me??) <img src="https://github.com/JestinGigi/JestinGigi/assets/75965382/a912ea37-2d3d-4b79-81ac-1a3c828c59b2" width="160" height="80" alt="Image alt text">
 
 ### @Red Lions Controls AS Devops Intern
-During my tenure of 6 months, I successfully achieved the following:Established a CI/CD pipeline to automate the process of flashing firmware to products and implementing testing stages for the devices.Delved into the intricacies of Linux, Jenkins, Ansible, Docker, and Terraform. Gained a comprehensive understanding and implementation of DOOD and DIID concepts. Effectively managed VMs using Ansible and built and executed Docker images. Deployed VMs and S3 buckets through Terraform configuration files.
+During my tenure of 6 months, I established a CI/CD pipeline to automate the process of flashing firmware to products and implementing testing stages for the devices. Was able to get hands-on on Linux, Jenkins, Ansible, Docker, and Terraform. Gained a comprehensive understanding and implementation of DOOD and DIID concepts. Effectively managed VMs using Ansible and built and executed Docker images. Deployed VMs and S3 buckets through Terraform configuration files.
 
 ### @ Hack X Security As Security Intern
 **VAPT Project:** During my internship at Hack X Security, I actively participated in a Vulnerability Assessment and Penetration Testing (VAPT) project. I gained hands-on experience in identifying and resolving security vulnerabilities in web applications, networks, and systems.  
   - Coded some automation scripts for integrating paramspider and XSpear in bash 
   - Learned new vulnerabilities and explored automated tools for vulnerability testing  
 
-## 📚Projects
+## 📚Achievements & Projects
 
 - **Linux File Systems:** With 2+ years of experience working with Linux, I have a deep understanding of Linux file systems, command-line operations, and system administration tasks.
 
